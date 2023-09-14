@@ -1,3 +1,3 @@
-module github.com/go-telegram-bot-api/telegram-bot-api/v5
+module github.com/springmint/telegram-bot-api/v1
 
-go 1.16
+go 1.17
